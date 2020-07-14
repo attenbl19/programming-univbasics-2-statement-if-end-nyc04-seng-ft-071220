@@ -1,2 +1,4 @@
 run_code_inside = true
-puts ""
+puts "Code before if...end"
+if run_code_inside
+  puts ""
